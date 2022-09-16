@@ -9,7 +9,7 @@
 
 I am a React Frontend Developer <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30">
 
-- :telescope: I’m working as a Fronend Developer and contributing to frontend for building web applications.
+- :telescope: I’m working as a Frontend Developer and contributing to frontend for building web applications.
 - :zap: In my free time, I learn and try new technologies
 - 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Skellord-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Skellord)
 ---
